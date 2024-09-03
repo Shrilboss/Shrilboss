@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrilboss&label=Profile%20views&color=0e75b6&style=flat" alt="Shrilboss" /> </p>
 
-**⚡ Fun fact - A group of flamingos is called a "flamboyance."**
+**⚡ Fun fact - The first computer virus, called "Creeper," was created in 1971 as an experiment. It displayed the message "I'm the creeper, catch me if you can!" and hopped from one computer to another without causing any harm.**
 
 
 ## Experience Highlights
