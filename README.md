@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrilboss&label=Profile%20views&color=0e75b6&style=flat" alt="Shrilboss" /> </p>
 
-**⚡ Fun fact - The first computer mouse, invented by Douglas Engelbart in 1964 at Stanford Research Institute and built by Bill English, was a wooden box with metal wheels, earning its name from its cord that resembled a tail.**
+**⚡ Fun fact - "Hacktivist," coined in 1994 by a hacker group, describes activists using hacking for social change, evolving cybersecurity into a tool for digital protest.**
 
 
 ## Experience Highlights
