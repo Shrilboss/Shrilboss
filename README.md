@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrilboss&label=Profile%20views&color=0e75b6&style=flat" alt="Shrilboss" /> </p>
 
-**⚡ Fun fact - "Hacktivist," coined in 1994 by a hacker group, describes activists using hacking for social change, evolving cybersecurity into a tool for digital protest.**
+**⚡ Fun fact - The first search engine, called "Archie," was created in 1990 by a student at McGill University in Montreal. It indexed FTP files.**
 
 
 ## Experience Highlights
