@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shril</h1>
-<h3 align="center">I am an aspiring Software Engineer with a solid background in Python and machine learning, recently graduated with a Master's in ECE specializing in ML/DS from UCSD. My experience includes automating account purge processes at UCSD using Python and Airflow, developing a code classification web app at Capgemini, and performing feature engineering on large datasets at Accenture. Outside of work, I enjoy chess and badminton, constantly seeking opportunities to learn and innovate.</h3>
+<h3 align="center">I am a Full Stack Engineer with a solid background in Python and machine learning, recently graduated with a Master's in ECE specializing in ML/DS from UCSD. My experience includes automating account purge processes at UCSD using Python and Airflow, developing a code classification web app at Capgemini, and performing feature engineering on large datasets at Accenture. Outside of work, I enjoy chess and badminton, constantly seeking opportunities to learn and innovate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrilboss&label=Profile%20views&color=0e75b6&style=flat" alt="Shrilboss" /> </p>
 
